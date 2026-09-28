@@ -2,7 +2,7 @@
 ### High‑Performance Power BI Dashboard for Operational Insights
 
 ## 📄 Project Description
-A cinematic, BCA‑inspired Power BI dashboard designed to centralize operational KPIs, data‑quality checks, and performance trends. Built to replace manual reporting, improve accuracy, and deliver fast, executive‑ready insights.
+A Power BI dashboard designed to centralize operational KPIs, data‑quality checks, and performance trends. Built to replace manual reporting, improve accuracy, and deliver fast, executive‑ready insights.
 
 ## 🎯 Purpose of the Project
 - Provide a single source of truth for automotive operations  
