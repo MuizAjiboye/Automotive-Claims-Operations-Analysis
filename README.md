@@ -62,12 +62,6 @@ The analysis focused on the operational metrics most relevant to leadership and 
 
 ---
 
-## Dashboard Preview
-
-![Claims Dashboard](dashboard.png)
-
----
-
 # Key Findings
 
 ## Internal Teams Handle The Majority Of Operational Workload
